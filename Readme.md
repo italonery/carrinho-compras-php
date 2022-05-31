@@ -20,7 +20,7 @@ Fazer o download do Xampp no site - https://www.apachefriends.org/pt_br/download
 
 ### Após realizar a instalação do Xampp:
 
-1. Copie a pasta do repositório "carrinho-compras"
+1. Copie a pasta do repositório "carrinho-compras-php"
 2. Cole a pasta em "xampp\htdocs"
 3. A pasta "xampp" fica localizada no disco local
 4. Ex: C:\xampp\htdocs
@@ -30,5 +30,5 @@ Fazer o download do Xampp no site - https://www.apachefriends.org/pt_br/download
 8. Copie os arquivos e pastas do mesmo e cole-os em "xampp\mysql\data"
 9. Abra aplicativo "XAMPP Control Panel"
 10. Dê start no Apache e MySQL
-11. Abra o seu navegador de internet pesquise por "localhost/carrinho-compras"
+11. Abra o seu navegador de internet pesquise por "localhost/carrinho-compras-php"
 12. Ready to go 😁
