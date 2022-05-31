@@ -1,12 +1,16 @@
 # Carrinho de compras em PHP 🛒
 ## Olá 😄
-## Carrinho de compras básico desenvolvido para apresentação na matéria de "Desenvolvimento Web em HTML, CSS, JavaScript e PHP" da Estácio FIB.
+## Carrinho de compras desenvolvido para apresentação na matéria de "Desenvolvimento Web em HTML, CSS, JavaScript e PHP" da Estácio FIB.
 
-Design by Me and AnielQueiroz - https://github.com/AnielQueiroz
+Referências:
 
-Code by AnielQueiroz.
+Stackoverflow - https://stackoverflow.com/
 
-Database by Me.
+Devmedia - https://www.devmedia.com.br/
+
+CodeShack - https://codeshack.io/
+
+YouTube
 
 ## 📚 Intruções para rodar o código:
 
