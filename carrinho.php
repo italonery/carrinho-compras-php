@@ -105,7 +105,7 @@ if ($produtos_no_carrinho) {
             <span class="texto">Subtotal</span>
             <span class="preco">R$<?=$subtotal?></span>
         </div>
-        <div class="butoes">
+        <div class="botoes">
             <input type="submit" value="Atualizar" name="atualiza">
             <input type="submit" value="Fazer Pedido" name="fazerpedido">
         </div>
