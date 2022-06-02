@@ -30,5 +30,5 @@ Fazer o download do Xampp no site - https://www.apachefriends.org/pt_br/download
 8. Copie os arquivos e pastas do mesmo e cole-os em "xampp\mysql\data"
 9. Abra aplicativo "XAMPP Control Panel"
 10. Dê start no Apache e MySQL
-11. Abra o seu navegador de internet pesquise por "localhost/carrinho-compras-php"
+11. Abra o seu navegador de internet pesquise por "localhost\carrinho-compras-php"
 12. Ready to go 😁
