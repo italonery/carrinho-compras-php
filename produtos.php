@@ -31,10 +31,10 @@ $total_produtos = $pdo->query('SELECT * FROM produtos')->rowCount();
     </div>
     <div class="butoes">
         <?php if ($pagina_atual > 1): ?>
-        <a href="index.php?page=produtos&p=<?=$pagina_atual-1?>">Prev</a>
+        <a href="index.php?page=produtos&p=<?=$pagina_atual-1?>">Anterior</a>
         <?php endif; ?>
         <?php if ($total_produtos > ($pagina_atual * $num_produtos_em_cada_pagina) - $num_produtos_em_cada_pagina + count($produtos)): ?>
-        <a href="index.php?page=produtos&p=<?=$pagina_atual+1?>">Next</a>
+        <a href="index.php?page=produtos&p=<?=$pagina_atual+1?>">Próximo</a>
         <?php endif; ?>
     </div>
 </div>
