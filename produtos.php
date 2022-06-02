@@ -6,7 +6,6 @@ $stmt->bindValue(1, ($pagina_atual - 1) * $num_produtos_em_cada_pagina, PDO::PAR
 $stmt->bindValue(2, $num_produtos_em_cada_pagina, PDO::PARAM_INT);
 $stmt->execute();
 $produtos = $stmt->fetchAll(PDO::FETCH_ASSOC);
-
 $total_produtos = $pdo->query('SELECT * FROM produtos')->rowCount();
 ?>
 
