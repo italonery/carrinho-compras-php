@@ -19,9 +19,9 @@ if (isset($_GET['id'])) {
     <div>
         <h1 class="nome"><?=$produto['nome']?></h1>
         <span class="preco">
-            &dollar;<?=$produto['preco']?>
+            &R$;<?=$produto['preco']?>
             <?php if ($produto['pdv'] > 0): ?>
-            <span class="pdv">&dollar;<?=$produto['pdv']?></span>
+            <span class="pdv">&R$;<?=$produto['pdv']?></span>
             <?php endif; ?>
         </span>
         <form action="index.php?page=carrinho" method="post">
