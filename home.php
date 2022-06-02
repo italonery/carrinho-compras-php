@@ -1,5 +1,4 @@
 <?php
-// Pegar os 4 produtos recentemente adicionados
 $stmt = $pdo->prepare('SELECT * FROM produtos ORDER BY data_adicionada DESC LIMIT 4');
 $stmt->execute();
 $produtos_recentemente_adicionados = $stmt->fetchAll(PDO::FETCH_ASSOC);
