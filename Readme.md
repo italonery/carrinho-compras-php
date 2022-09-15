@@ -8,8 +8,6 @@ Stackoverflow - https://stackoverflow.com/
 
 Devmedia - https://www.devmedia.com.br/
 
-CodeShack - https://codeshack.io/
-
 YouTube
 
 ## 📚 Intruções para rodar o código:
