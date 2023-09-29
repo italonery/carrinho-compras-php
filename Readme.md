@@ -10,7 +10,7 @@ Devmedia - https://www.devmedia.com.br/
 
 YouTube
 
-## 📚 Intruções para rodar o código:
+## 📚 Intruções:
 
 Clone o repositório.
 
